@@ -23,4 +23,9 @@
 ## Credits
 The JavaScript was created by Rush Burriel with base HTML and CSS code provided.
   
-  
+## Links
+  https://burrielrush.github.io/passwordgenerator/
+  https://github.com/burrielrush/passwordgenerator
+
+  ## App photo
+  <img width="1108" alt="Screenshot 2023-03-13 at 9 22 35 PM" src="https://user-images.githubusercontent.com/123046249/224885058-70a9c19d-db7a-413d-8acd-3819d7fe0372.png">
